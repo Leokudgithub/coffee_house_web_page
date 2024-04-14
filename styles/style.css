@@ -1,0 +1,73 @@
+body{
+    background-color: sandybrown;
+    margin-top: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: "Raleway", sans-serif;
+}
+
+.container{
+    margin-top: 5%;
+    justify-content: left;
+    background-color: antiquewhite;
+    align-items: center;
+    border-radius: 15px;
+
+}
+.logo{
+    display: flex;
+    align-items: center;
+    margin-left: 5%;
+    margin-top: 3%;
+
+}
+.logo img{
+    margin-top: 3%;
+    margin-right: 20px; / отступ между картинкой и текстом /
+}
+
+.logo h1{
+    margin-top: 5%;
+    margin-left: 20px; / отступ слева от текста /
+}
+.text{
+    border-radius: 15px;
+    background-color: saddlebrown;
+    display: flex;
+    margin: 3%;
+    justify-content: center;
+
+}
+a{
+    color: black;
+}
+
+
+.link{
+    margin: 5%;
+    display: flex;
+    border-width: 8px;
+    border-radius: 15px;
+    border-color: black;
+}
+.upperlink{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    height: 20%;
+    margin-top: 5%;
+    background-color: antiquewhite;
+    border-radius: 15px;
+}
+.upperlink img{
+    margin: 10%
+}
+.upperlink a{
+    margin: 10%
+}
+text h2{
+    margin: 5%;
+}
+.about{
+    margin: 2%;
+}
